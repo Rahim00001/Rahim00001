@@ -16,7 +16,7 @@ Hello there! 👋 I'm Kamrul Islam Rahim, a passionate web developer with a knac
 </p>
 
 ## 📫 Let's Connect
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' width ='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kamrul-islam-rahim-7084382a4//)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' width ='40'>](https://https//www.linkedin.com/in/kamrul-islam-rahim-7084382a4//)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40' width ='80'>](rahimlpt2022@gmail.com ) 
 
 ## 🙋‍♂️ Current Overview 
