@@ -1,12 +1,14 @@
 ![logo](https://github.com/Rahim00001/Rahim00001/blob/main/git%20banner.png)
 
-## 👋 Hi there, I am Rahim.
+## 👨‍💻 About Me
+Hello there! 👋 I'm Kamrul Islam Rahim, a passionate web developer with a knack for turning ideas into interactive and engaging web experiences. My journey in coding started with a love for crafting pixel-perfect designs and has evolved into a full-stack adventure.
 
-**Rahim00001/Rahim00001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I Do
+- Front-end Development: Transforming designs into responsive and user-friendly interfaces using HTML, CSS, Tailwindcss and JavaScript.
+- Back-end Development: Building robust server-side applications with NodeJs.
+- Full-Stack Magic: Connecting the dots between front-end and back-end to create seamless web applications.
 
-Here are some ideas to get you started:
-
-## 🙋‍♂️ Who Am I
+## 🙋‍♂️ Current Overview 
 - 🔭 I’m currently working on React.Js
 - 🌱 I’m currently learning Next.Js
 - 🤔 I’m looking for help with ...
