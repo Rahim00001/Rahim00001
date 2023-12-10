@@ -11,3 +11,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about React.Js & Javascript
 - 📫 How to reach me: rahimlpt2022@gmail.com
+
+## Current Status 
+<div align="center"> 
+<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rahim00001&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+</div>
+
+## Technologies That I Know 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,nodejs,mongo,nextjs" />
+</a>
