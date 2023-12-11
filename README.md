@@ -1,4 +1,4 @@
-![logo](https://github.com/Rahim00001/Rahim00001/blob/main/git%20banner.png)
+![logo](https://github.com/Rahim00001/Rahim00001/blob/main/banner.png)
 
 ## 👨‍💻 About Me
 Hello there! 👋 I'm Kamrul Islam Rahim, a passionate web developer with a knack for turning ideas into interactive and engaging web experiences. My journey in coding started with a love for crafting pixel-perfect designs and has evolved into a full-stack adventure.
