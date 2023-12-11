@@ -22,7 +22,6 @@ Hello there! 👋 I'm Kamrul Islam Rahim, a passionate web developer with a knac
 ## 🙋‍♂️ Current Overview 
 - 🔭 I’m currently working on React.Js
 - 🌱 I’m currently learning Next.Js
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about React.Js & Javascript
 - 📫 How to reach me: rahimlpt2022@gmail.com
 
