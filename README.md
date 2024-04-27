@@ -26,6 +26,9 @@ Hello there! 👋 I'm Kamrul Islam Rahim, a passionate web developer with a knac
 - 💬 Ask me about React.Js & Javascript
 - 💤 Fun fact - Loading...
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahim00001&label=Profile%20views&color=0e75b6&style=flat"
+      alt="raisul" /> </p>
+
 ## ⏳ Github Activity Streaks 
 <div align="center"> 
 <a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rahim00001&theme=github_dark" alt="GitHub Streak" /></a>
